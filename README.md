@@ -13,9 +13,7 @@
 🗨️ working on ![Odometry Challenge](https://github.com/IERoboticsClub/omnicv2023)  <br>
 
 </div> 
-  
 
- 
 <p align="center">
   <img src="https://github.com/vtwoptwo/.github/blob/main/github-metrics.svg" alt="Metrics" width="600">
 </p>
@@ -23,12 +21,31 @@
 
 
 <h3 align="center"> Blog Posts </h3>
+<body align="center">
+  
+  
+```
+                                        ____                  ____                      
+                                       / __ \___  ___ ___    / __/__  __ _____________  
+                                      / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+                                      \____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+                                         _/_/                  __  __   _               
+                                        / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+                                       / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+                                      /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                                                       /___/                /___/  
+```
+
+</body>
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Object Detection: Retraining YOLOv5 on Custom Data V1](https://medium.com/@vtwop2/object-detection-retraining-yolov5-on-custom-data-v1-468f078f7872?source=rss-59563c038004------2)
 - [The Plant Saver: A Simple Automatic Irrigation System](https://medium.com/@vtwop2/the-plant-saver-a-simple-automatic-irrigation-system-bfacbc6a3744?source=rss-59563c038004------2)
-<!-- BLOG-POST-LIST:END -->
 
+
+
+<!-- BLOG-POST-LIST:END -->
 
 
 
@@ -54,7 +71,7 @@
 <br>
 <h3 align="center">Statistics</h3>
 
- <body>
+ <body align="center">
     <div class="row">
         <div class="column" style="">
 
