@@ -1,8 +1,9 @@
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vtwoptwo&label=Profile%20views&color=0e75b6&style=flat" alt="vtwoptwo" /> </p>
 <h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">kind of all over the place but currently tinkering in crypto & ai</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vtwoptwo&label=Profile%20views&color=0e75b6&style=flat" alt="vtwoptwo" /> </p>
+
 
 <p align="center">
 - 🌱 I’m currently learning **TypeScript**
