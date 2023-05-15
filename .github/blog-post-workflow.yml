@@ -3,7 +3,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '55 * * * *'
+        - cron: '42 * * * *'
     # Run workflow manually
     workflow_dispatch:
 jobs: 
