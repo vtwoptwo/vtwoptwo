@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
           
           user: vtwoptwo
-          commits_authoring: vtwoptwo, vtuptu, vprohaska
+          commits_authoring: vtwoptwo
           config_timezone: Europe/Madrid
           template: terminal
 
