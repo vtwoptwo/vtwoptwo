@@ -20,7 +20,7 @@ jobs:
           user: vtwoptwo
           commits_authoring: vtwoptwo
           config_timezone: Europe/Madrid
-          template: terminal
+          template: classic
 
           base: activity
           base_indepth: yes
