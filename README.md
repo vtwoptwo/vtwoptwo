@@ -9,13 +9,13 @@
 <div align="center">
   
 🌱 learning ![TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript) <br>
-📚 reading ![Cracking the Coding Interview](https://github.com/vtwoptwo/vtwoptwo/CCI) <br>
+📚 reading ![Cracking the Coding Interview](https://github.com/vtwoptwo/main/blob/vtwoptwo/CCI) <br>
 🗨️ working on ![Odometry Challenge](https://github.com/IERoboticsClub/omnicv2023)  <br>
 
 </div> 
 
 <p align="center">
-  <img src="https://github.com/vtwoptwo/.github/blob/main/github-metrics.svg" alt="Metrics" width="600">
+  <img src="https://github.com/vtwoptwo/vtwoptwo/blob/main/github-metrics.svg" alt="Metrics" width="600">
 </p>
 
 
