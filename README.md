@@ -71,21 +71,5 @@
  </body>
 
 
-<br> 
-<br>
-<h3 align="center">Statistics</h3>
-
- <body align="center">
-    <div class="row">
-        <div class="column" style="">
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vtwoptwo&" alt="vtwoptwo" /></p>
-        </div>
-          <div class="column">
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtwoptwo&show_icons=true&locale=en" alt="vtwoptwo" /></p>
-        </div>
-      
-  </div>
- </body>
 
 
