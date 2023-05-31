@@ -13,7 +13,7 @@
   
 
 🌱 learning [TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript) <br>
-📚 reading [Cracking the Coding Interview](https://github.com/vtwoptwo/main/blob/vtwoptwo/CCI) <br>
+📚 reading [Tomorrow, and Tomorrow, and Tomorrow](https://github.com/vtwoptwo/main/blob/vtwoptwo/CCI) <br>
 🗨️ working on [Odometry Challenge](https://github.com/IERoboticsClub/omnicv2023)  <br>
 📎 researching for [IE Robotics Club](https://github.com/IERoboticsClub)<br>
 🔥 interested in [Mojo](https://docs.modular.com/mojo/programming-manual.html)  <br>
