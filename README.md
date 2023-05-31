@@ -49,6 +49,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dunders? Its a kind of magic…](https://medium.com/@vtwop2/dunders-its-a-kind-of-magic-8bdc14d74a89?source=rss-59563c038004------2)
 - [Object Detection: Retraining YOLOv5 on Custom Data V1](https://medium.com/@vtwop2/object-detection-retraining-yolov5-on-custom-data-v1-468f078f7872?source=rss-59563c038004------2)
 - [The Plant Saver: A Simple Automatic Irrigation System](https://medium.com/@vtwop2/the-plant-saver-a-simple-automatic-irrigation-system-bfacbc6a3744?source=rss-59563c038004------2)
 <!-- BLOG-POST-LIST:END -->
