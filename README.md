@@ -12,9 +12,9 @@
 <div align="center">
   
 
-🌱 learning [TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript) <br>
-📚 reading [Tomorrow, and Tomorrow, and Tomorrow](https://www.google.es/books/edition/Tomorrow_and_Tomorrow_and_Tomorrow/dI1IEAAAQBAJ?hl=en&gbpv=0) <br>
-🗨️ working on [Odometry Challenge](https://github.com/IERoboticsClub/omnicv2023)  <br>
+🌱 still learning [TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript) <br>
+📚 reading [The Intelligent Investor]() <br>
+🗨️ working on [the next IE Robotics Club Workshop](https://github.com/IERoboticsClub)  <br>
 📎 researching for [IE Robotics Club](https://github.com/IERoboticsClub)<br>
 🔥 interested in [Mojo](https://docs.modular.com/mojo/programming-manual.html)  <br>
 
