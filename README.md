@@ -49,10 +49,10 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing and Interacting with Weaviate - Python + Docker + :&rpar;](https://medium.com/@vtwop2/implementing-and-interacting-with-weaviate-python-docker-98b2e5474baf?source=rss-59563c038004------2)
 - [framework for integrating apps apis and llms](https://medium.com/@vtwop2/framework-for-integrating-apps-apis-and-llms-48afd7bcc89a?source=rss-59563c038004------2)
 - [Dunders? Its a kind of magic…](https://medium.com/@vtwop2/dunders-its-a-kind-of-magic-8bdc14d74a89?source=rss-59563c038004------2)
 - [Object Detection: Retraining YOLOv5 on Custom Data V1](https://medium.com/@vtwop2/object-detection-retraining-yolov5-on-custom-data-v1-468f078f7872?source=rss-59563c038004------2)
-- [The Plant Saver: A Simple Automatic Irrigation System](https://medium.com/@vtwop2/the-plant-saver-a-simple-automatic-irrigation-system-bfacbc6a3744?source=rss-59563c038004------2)
 <!-- BLOG-POST-LIST:END -->
 
 
