@@ -13,7 +13,7 @@
   
 
 🌱 learning [ROS](https://www.theconstructsim.com) <br>
-📚 reading [The Intelligent Investor]() <br>
+📚 reading [Why we sleep]() <br>
 🗨️ working on [the next IE Robotics Club Workshop](https://github.com/IERoboticsClub)  <br>
 📎 researching for [IE Robotics Club](https://github.com/IERoboticsClub)<br>
 🔥 interested in [Mojo](https://docs.modular.com/mojo/programming-manual.html)  <br>
