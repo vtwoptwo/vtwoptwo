@@ -12,7 +12,7 @@
 <div align="center">
   
 
-🌱 still learning [TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript) <br>
+🌱 learning [ROS](https://www.theconstructsim.com) <br>
 📚 reading [The Intelligent Investor]() <br>
 🗨️ working on [the next IE Robotics Club Workshop](https://github.com/IERoboticsClub)  <br>
 📎 researching for [IE Robotics Club](https://github.com/IERoboticsClub)<br>
