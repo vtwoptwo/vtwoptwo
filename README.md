@@ -49,10 +49,10 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Connecting to TIAGO with SSH, using ROS1 and publishing a TOPIC which sends “Hello World!”](https://medium.com/@vtwop2/connecting-to-tiago-with-ssh-using-ros1-and-publishing-a-topic-which-sends-hello-world-157c04968afb?source=rss-59563c038004------2)
 - [framework for integrating apps apis and llms](https://medium.com/@vtwop2/framework-for-integrating-apps-apis-and-llms-48afd7bcc89a?source=rss-59563c038004------2)
 - [Dunders? Its a kind of magic…](https://medium.com/@vtwop2/dunders-its-a-kind-of-magic-8bdc14d74a89?source=rss-59563c038004------2)
 - [Object Detection: Retraining YOLOv5 on Custom Data V1](https://medium.com/@vtwop2/object-detection-retraining-yolov5-on-custom-data-v1-468f078f7872?source=rss-59563c038004------2)
-- [The Plant Saver: A Simple Automatic Irrigation System](https://medium.com/@vtwop2/the-plant-saver-a-simple-automatic-irrigation-system-bfacbc6a3744?source=rss-59563c038004------2)
 <!-- BLOG-POST-LIST:END -->
 
 
