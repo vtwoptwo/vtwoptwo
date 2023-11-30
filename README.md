@@ -1,7 +1,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vtwoptwo&label=Profile%20views&color=0e75b6&style=flat" alt="vtwoptwo" /> </p>
-<h1 align="center">Hi  <img src="https://media.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" 
+<h1 align="center"><img src="https://media.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" 
          alt="Waving hand animated gif"
          height="80"
          width="90" />, I'm Vera</h1>
