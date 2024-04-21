@@ -16,7 +16,7 @@
 📚 reading [Why we sleep]() <br>
 🗨️ working on [the next IE Robotics Club Workshop](https://github.com/IERoboticsClub)  <br>
 📎 researching for [IE Robotics Club](https://github.com/IERoboticsClub)<br>
-🔥 interested in [Mojo](https://docs.modular.com/mojo/programming-manual.html)  <br>
+🔥 interested in [how humans interact with tech](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)  <br>
 
 </div> 
 <p align="center">
