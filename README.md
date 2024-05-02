@@ -12,10 +12,10 @@
 <div align="center">
   
 
-🌱 learning [ROS](https://www.theconstructsim.com) <br>
+🌱 advancing my knowledge of [ROS](https://github.com/vtwoptwo/rosbot-2-mclane-robocop) <br>
 📚 reading [Why we sleep]() <br>
-🗨️ working on [the next IE Robotics Club Workshop](https://github.com/IERoboticsClub)  <br>
-📎 researching for [IE Robotics Club](https://github.com/IERoboticsClub)<br>
+🗨️ working on [progamming cool HCI/ HRI stuff inspired by TUIs](https://github.com/vtwoptwo/SPICE) <br>
+📎 researching in [Robotics and CV](https://github.com/IERoboticsClub)<br>
 🔥 interested in [how humans interact with tech](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)  <br>
 
 </div> 
