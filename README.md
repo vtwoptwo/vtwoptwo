@@ -49,10 +49,10 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Objects in 3D-Space Real Time](https://medium.com/@vtwop2/tracking-objects-in-3d-space-real-time-3a318498982e?source=rss-59563c038004------2)
 - [ROS + Docker [1/4]: Get your ROS environment up and running BASIC](https://medium.com/@vtwop2/ros-docker-1-4-get-your-ros-environment-up-and-running-basic-a7b99e531af2?source=rss-59563c038004------2)
 - [Wondering about how to set up Weaviate? Docker + Python + Builder Pattern](https://medium.com/@vtwop2/wondering-about-how-to-set-up-weaviate-docker-python-builder-pattern-21e414f555e4?source=rss-59563c038004------2)
 - [Learning RPLIDAR with Jetson Nano: A Fun and Easy Set-Up Guide to Robot SLAM](https://medium.com/@vtwop2/learning-rplidar-with-jetson-nano-a-fun-and-easy-set-up-guide-to-robot-slam-a114d9a9d9cb?source=rss-59563c038004------2)
-- [Connecting to TIAGO with SSH, using ROS1 and publishing a TOPIC which sends “Hello World!”](https://medium.com/@vtwop2/connecting-to-tiago-with-ssh-using-ros1-and-publishing-a-topic-which-sends-hello-world-157c04968afb?source=rss-59563c038004------2)
 <!-- BLOG-POST-LIST:END -->
 
 
