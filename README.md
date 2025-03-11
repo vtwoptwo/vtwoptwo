@@ -12,10 +12,9 @@
 <div align="center">
   
 
-🌱 advancing my knowledge of [ROS](https://github.com/vtwoptwo/rosbot-2-mclane-robocop) <br>
-📚 reading [Why we sleep]() <br>
-🗨️ working on [progamming cool HCI/ HRI stuff inspired by TUIs](https://github.com/vtwoptwo/SPICE) <br>
-📎 researching in [Robotics and CV](https://github.com/IERoboticsClub)<br>
+🌱 advancing my knowledge of [coding in a startup]() <br>
+📚 reading **Steve Jobs and Beat Poetry** <br>
+🗨️ working on [artificial narrow intelligence]() <br>
 🔥 interested in [how humans interact with tech](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)  <br>
 
 </div> 
