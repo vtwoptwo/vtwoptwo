@@ -17,6 +17,9 @@
 🗨️ working on [artificial narrow intelligence]() <br>
 🔥 interested in [how humans interact with tech](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)  <br>
 
+
+
+
 </div> 
 <p align="center">
   <img src="https://github.com/vtwoptwo/vtwoptwo/blob/main/github-metrics.svg" alt="Metrics" width="600">
